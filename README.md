@@ -1,4 +1,4 @@
-# luniverse-web3-mission
+# luniverse-web3-hackathon
 
 ## 1. Requirements
 
